@@ -1,6 +1,14 @@
-# Feature - Anti Bullet Spam
+# Feature - Resident Evil Gameplay 
 
-Hi Everyone,
+Instructions:
 
-I took the Beginner's Guide tutorial for Construct2 and I reproduce it(kinda...the monster doesn't move)
-However, I have added a feature that blocks the bullets spam by the player, unlike the main guide. 
+ * W : Move Forward
+ * S : Move Backward
+ * A : Rotate Counter-Clockwise
+ * D : Rotate Clockwise
+
+ * LeftMouse: Shoot
+
+ Feature Added:
+
+ - Add darkness and a basic light
